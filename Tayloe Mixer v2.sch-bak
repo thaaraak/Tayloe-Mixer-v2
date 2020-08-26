@@ -1049,4 +1049,34 @@ F 3 "" H 12900 3850 50  0001 C CNN
 	1    12900 3850
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	2450 4150 2450 4050
+Connection ~ 2450 4050
+Wire Wire Line
+	2450 4250 2450 4350
+Connection ~ 2450 4350
+$Comp
+L Xenir:Pad J5
+U 1 1 5F486548
+P 10350 2000
+F 0 "J5" H 10250 1850 50  0000 C CNN
+F 1 "Pad" H 10350 2000 50  0000 C CNN
+F 2 "Xenir:Pad" H 10350 2000 50  0001 C CNN
+F 3 "" H 10350 2000 50  0001 C CNN
+	1    10350 2000
+	-1   0    0    1   
+$EndComp
+Connection ~ 10250 1850
+$Comp
+L Xenir:Pad J2
+U 1 1 5F4876B8
+P 8100 2000
+F 0 "J2" H 8000 1850 50  0000 C CNN
+F 1 "Pad" H 8100 2000 50  0000 C CNN
+F 2 "Xenir:Pad" H 8100 2000 50  0001 C CNN
+F 3 "" H 8100 2000 50  0001 C CNN
+	1    8100 2000
+	1    0    0    -1  
+$EndComp
+Connection ~ 8200 2150
 $EndSCHEMATC

@@ -82,7 +82,7 @@ F 1 "100uF" H 10015 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:CP_Elec_6.3x5.4" H 9900 2000 50  0001 C CNN
 F 3 "" H 9900 2000 50  0001 C CNN
 	1    9900 2000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L Xenir:Capacitor C6
@@ -93,7 +93,7 @@ F 1 "22uF" H 8565 1505 50  0000 L CNN
 F 2 "Capacitor_SMD:CP_Elec_4x5.4" H 8450 2000 50  0001 C CNN
 F 3 "" H 8450 2000 50  0001 C CNN
 	1    8450 2000
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L power:+12V #PWR0101
