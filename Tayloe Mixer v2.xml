@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="D">
   <design>
-    <source>C:\Users\Caliphax\Documents\kicad\Tayloe-Mixer-v2\Tayloe Mixer v2.sch</source>
-    <date>9/15/2020 7:07:44 AM</date>
-    <tool>Eeschema (5.1.5)-3</tool>
+    <source>/home/xenir/git/Tayloe-Mixer-v2/Tayloe Mixer v2.sch</source>
+    <date>Tue 15 Sep 2020 07:15:30 AM CDT</date>
+    <tool>Eeschema 5.1.6-c6e7f7d~87~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -357,6 +357,8 @@
         <alias>LM341T-12_TO220</alias>
         <alias>LM341T-15_TO220</alias>
         <alias>LM2937xT</alias>
+        <alias>LM2931-3.3_TO220</alias>
+        <alias>LM2931-5.0_TO220</alias>
       </aliases>
       <description>Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220</description>
       <docs>http://www.fairchildsemi.com/ds/LM/LM7805.pdf</docs>
@@ -521,16 +523,16 @@
   </libparts>
   <libraries>
     <library logical="Connector">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+      <uri>/usr/share/kicad/library/Connector.lib</uri>
     </library>
     <library logical="Device">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+      <uri>/usr/share/kicad/library/Device.lib</uri>
     </library>
     <library logical="Regulator_Linear">
-      <uri>C:\Program Files\KiCad\share\kicad\library/Regulator_Linear.lib</uri>
+      <uri>/usr/share/kicad/library/Regulator_Linear.lib</uri>
     </library>
     <library logical="Xenir">
-      <uri>C:/Users/Caliphax/Documents/GitHub/kicad-libraries/Xenir.lib</uri>
+      <uri>/home/xenir/git/kicad-libraries/Xenir.lib</uri>
     </library>
   </libraries>
   <nets>
