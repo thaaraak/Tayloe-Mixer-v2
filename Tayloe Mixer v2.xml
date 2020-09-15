@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>C:\Users\Caliphax\Documents\kicad\Tayloe-Mixer-v2\Tayloe Mixer v2.sch</source>
-    <date>9/15/2020 7:01:51 AM</date>
+    <date>9/15/2020 7:07:44 AM</date>
     <tool>Eeschema (5.1.5)-3</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -21,7 +21,7 @@
   <components>
     <comp ref="R1">
       <value>10k</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -29,7 +29,7 @@
     </comp>
     <comp ref="R2">
       <value>10k</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -100,7 +100,7 @@
     </comp>
     <comp ref="R3">
       <value>100</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -108,7 +108,7 @@
     </comp>
     <comp ref="R4">
       <value>100</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -116,7 +116,7 @@
     </comp>
     <comp ref="R5">
       <value>100</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -124,7 +124,7 @@
     </comp>
     <comp ref="R6">
       <value>100</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -146,7 +146,7 @@
     </comp>
     <comp ref="R7">
       <value>10k</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
@@ -154,7 +154,7 @@
     </comp>
     <comp ref="R8">
       <value>10k</value>
-      <footprint>Xenir:Capacitor 0805</footprint>
+      <footprint>Xenir:Resistor 0805</footprint>
       <datasheet>~</datasheet>
       <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
       <sheetpath names="/" tstamps="/"/>
