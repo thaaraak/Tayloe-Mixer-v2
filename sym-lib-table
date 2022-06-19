@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Tayloe-Mixer-v2-rescue)(type Legacy)(uri "${KIPRJMOD}/Tayloe Mixer v2-rescue.lib")(options "")(descr ""))
+)
