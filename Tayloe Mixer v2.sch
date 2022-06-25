@@ -36,7 +36,7 @@ F 3 "~" H 8200 1950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Capacitor C25
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C25
 U 1 1 5E9FBB07
 P 8950 2000
 F 0 "C25" H 8900 2150 50  0000 L CNN
@@ -74,7 +74,7 @@ Wire Wire Line
 Wire Wire Line
 	7750 1850 8200 1850
 $Comp
-L Xenir:Capacitor C7
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C7
 U 1 1 5EA05D6A
 P 9900 2000
 F 0 "C7" H 9850 1850 50  0000 L CNN
@@ -85,7 +85,7 @@ F 3 "" H 9900 2000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Xenir:Capacitor C6
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C6
 U 1 1 5EA063C0
 P 8450 2000
 F 0 "C6" H 8450 2150 50  0000 L CNN
@@ -125,7 +125,7 @@ Connection ~ 8700 1650
 Wire Wire Line
 	8700 1650 8950 1650
 $Comp
-L Xenir:FST3253 U2
+L Tayloe-Mixer-v2-rescue:FST3253-Xenir U2
 U 1 1 5EA318D2
 P 9000 2700
 F 0 "U2" H 8550 2431 50  0000 C CNN
@@ -153,7 +153,7 @@ $EndComp
 Wire Wire Line
 	8550 2800 8550 2900
 $Comp
-L Xenir:Capacitor C8
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C8
 U 1 1 5EA383DE
 P 8950 3050
 F 0 "C8" H 8900 3200 50  0000 L CNN
@@ -253,7 +253,7 @@ Wire Wire Line
 Wire Wire Line
 	9550 4250 9250 4250
 $Comp
-L Xenir:Capacitor C9
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C9
 U 1 1 5EA6792B
 P 4900 3750
 F 0 "C9" H 4850 3900 50  0000 L CNN
@@ -264,7 +264,7 @@ F 3 "" H 4900 3750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Xenir:Capacitor C10
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C10
 U 1 1 5EA68A05
 P 4900 4200
 F 0 "C10" H 4850 4350 50  0000 L CNN
@@ -275,7 +275,7 @@ F 3 "" H 4900 4200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Xenir:Capacitor C11
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C11
 U 1 1 5EA6950B
 P 4900 4700
 F 0 "C11" H 4850 4850 50  0000 L CNN
@@ -286,7 +286,7 @@ F 3 "" H 4900 4700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Xenir:Capacitor C12
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C12
 U 1 1 5EA69901
 P 4900 5150
 F 0 "C12" H 4850 5300 50  0000 L CNN
@@ -397,7 +397,7 @@ F 3 "~" H 4250 5000 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Xenir:LM358 U3
+L Tayloe-Mixer-v2-rescue:LM358-Xenir U3
 U 1 1 5EA9F5A6
 P 3500 3800
 F 0 "U3" H 3450 3800 70  0000 C CNN
@@ -408,7 +408,7 @@ F 3 "" H 3450 3750 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Xenir:LM358 U3
+L Tayloe-Mixer-v2-rescue:LM358-Xenir U3
 U 2 1 5EAA17EF
 P 3500 4800
 F 0 "U3" H 3450 4800 70  0000 C CNN
@@ -419,7 +419,7 @@ F 3 "" H 3450 4750 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 $Comp
-L Xenir:LM358 U3
+L Tayloe-Mixer-v2-rescue:LM358-Xenir U3
 U 3 1 5EAA2951
 P 10050 2750
 F 0 "U3" H 10078 2811 70  0000 L CNN
@@ -476,7 +476,7 @@ F 3 "" H 9950 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Capacitor C13
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C13
 U 1 1 5EAC8FB2
 P 9700 2750
 F 0 "C13" H 9500 2900 50  0000 L CNN
@@ -519,7 +519,7 @@ F 3 "~" H 3550 4300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Xenir:Capacitor C15
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C15
 U 1 1 5EADF0CD
 P 3550 4150
 F 0 "C15" H 3300 4200 50  0000 L CNN
@@ -577,7 +577,7 @@ Connection ~ 3850 4300
 Wire Wire Line
 	3850 4300 3850 4700
 $Comp
-L Xenir:Capacitor C14
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C14
 U 1 1 5EADE1CD
 P 3550 3150
 F 0 "C14" H 3300 3200 50  0000 L CNN
@@ -617,7 +617,7 @@ Wire Wire Line
 Wire Wire Line
 	6200 1950 6350 1950
 $Comp
-L Xenir:T50_SPLITTER T3
+L Tayloe-Mixer-v2-rescue:T50_SPLITTER-Xenir T3
 U 1 1 5E9EEE06
 P 6700 1550
 F 0 "T3" H 6700 1531 50  0000 C CNN
@@ -688,7 +688,7 @@ Wire Wire Line
 Wire Wire Line
 	4750 1950 4850 1950
 $Comp
-L Xenir:T37_XFRM T2
+L Tayloe-Mixer-v2-rescue:T37_XFRM-Xenir T2
 U 1 1 5E9E9ADC
 P 5800 1800
 F 0 "T2" H 5800 1841 50  0000 C CNN
@@ -699,7 +699,7 @@ F 3 "" H 5800 1800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Trimcap VC6
+L Tayloe-Mixer-v2-rescue:Trimcap-Xenir VC6
 U 1 1 5E9E8F97
 P 5200 1850
 F 0 "VC6" H 5308 1496 50  0000 L CNN
@@ -710,7 +710,7 @@ F 3 "" H 5200 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Capacitor C3
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C3
 U 1 1 5E9E8D24
 P 4600 1450
 F 0 "C3" V 4500 1600 50  0000 C CNN
@@ -721,7 +721,7 @@ F 3 "" H 4600 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Capacitor C4
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C4
 U 1 1 5E9E81AF
 P 4600 1950
 F 0 "C4" V 4500 2100 50  0000 C CNN
@@ -732,7 +732,7 @@ F 3 "" H 4600 1950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Capacitor C5
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C5
 U 1 1 5E9E7736
 P 4850 2250
 F 0 "C5" H 4800 2400 50  0000 L CNN
@@ -743,7 +743,7 @@ F 3 "" H 4850 2250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Xenir:Capacitor C2
+L Tayloe-Mixer-v2-rescue:Capacitor-Xenir C2
 U 1 1 5E9E667F
 P 4350 2250
 F 0 "C2" H 4300 2400 50  0000 L CNN
@@ -754,7 +754,7 @@ F 3 "" H 4350 2250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Xenir:Trimcap VC1
+L Tayloe-Mixer-v2-rescue:Trimcap-Xenir VC1
 U 1 1 5E9DC9D6
 P 4000 1850
 F 0 "VC1" H 3750 1500 50  0000 L CNN
@@ -781,7 +781,7 @@ $EndComp
 Wire Wire Line
 	3000 2150 3000 1950
 $Comp
-L Xenir:T37_XFRM T1
+L Tayloe-Mixer-v2-rescue:T37_XFRM-Xenir T1
 U 1 1 5E9D7159
 P 3400 1800
 F 0 "T1" H 3400 1841 50  0000 C CNN
@@ -817,7 +817,7 @@ Text GLabel 2450 4800 0    50   Input ~ 0
 Q_OUTPUT
 Connection ~ 3150 4800
 $Comp
-L Xenir:si5351 U4
+L Tayloe-Mixer-v2-rescue:si5351-Xenir U4
 U 1 1 5E9EA10D
 P 11600 3250
 F 0 "U4" H 11350 3531 50  0000 C CNN
@@ -841,7 +841,7 @@ F 3 "" H 11350 4250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:Audio_Jack J3
+L Tayloe-Mixer-v2-rescue:Audio_Jack-Xenir J3
 U 1 1 5E9E7BEE
 P 2250 4600
 F 0 "J3" H 1973 4204 50  0000 R CNN
@@ -950,7 +950,7 @@ Wire Wire Line
 Wire Wire Line
 	10000 3750 9250 3750
 $Comp
-L Xenir:BNC J1
+L Tayloe-Mixer-v2-rescue:BNC-Xenir J1
 U 1 1 5F44E5DC
 P 2100 2150
 F 0 "J1" H 2000 2000 50  0000 C CNN
@@ -961,7 +961,7 @@ F 3 "" H 2100 2300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Xenir:LD33V U5
+L Tayloe-Mixer-v2-rescue:LD33V-Xenir U5
 U 1 1 5F4A2EFF
 P 11850 1700
 F 0 "U5" H 12000 1700 50  0000 C CNN
@@ -1056,7 +1056,7 @@ Wire Wire Line
 	2450 4250 2450 4350
 Connection ~ 2450 4350
 $Comp
-L Xenir:Pad J5
+L Tayloe-Mixer-v2-rescue:Pad-Xenir J5
 U 1 1 5F486548
 P 10350 2000
 F 0 "J5" H 10250 1850 50  0000 C CNN
@@ -1068,7 +1068,7 @@ F 3 "" H 10350 2000 50  0001 C CNN
 $EndComp
 Connection ~ 10250 1850
 $Comp
-L Xenir:Pad J2
+L Tayloe-Mixer-v2-rescue:Pad-Xenir J2
 U 1 1 5F4876B8
 P 8100 2000
 F 0 "J2" H 8000 1850 50  0000 C CNN
